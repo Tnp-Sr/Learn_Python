@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e77c23af-f8e1-41c3-a93c-3668154fadf9" name="Changes" comment="" />
+    <list default="true" id="f95f8a83-6d1b-4935-823c-3a12f2fa117a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lesson/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/problem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_Problem/problem/P0.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1wI2dAMCZ7TEAGov1Vy9Gw9fGTc" />
+  <component name="ProjectId" id="1wIjfLTNbZWKEYfixRHDvHKerEw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,11 +29,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../_Lesson/lesson" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/problem_env" />
   </component>
   <component name="RunManager">
     <configuration name="P0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="problem" />
+      <module name="Problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -59,24 +62,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e77c23af-f8e1-41c3-a93c-3668154fadf9" name="Changes" comment="" />
-      <created>1628131867201</created>
+      <changelist id="f95f8a83-6d1b-4935-823c-3a12f2fa117a" name="Changes" comment="" />
+      <created>1628153098250</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628131867201</updated>
+      <updated>1628153098250</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
