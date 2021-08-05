@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e77c23af-f8e1-41c3-a93c-3668154fadf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P0.py" afterDir="false" />
-    </list>
+    <list default="true" id="e77c23af-f8e1-41c3-a93c-3668154fadf9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../_Lesson/lesson" />
   </component>
   <component name="RunManager">
     <configuration name="P0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -78,5 +77,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
