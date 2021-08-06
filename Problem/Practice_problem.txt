@@ -29,3 +29,16 @@ The first group has 20 students and thus needs 10 desks.
 The second group has 21 students, so they can get by with no fewer than 11 desks. 
 11 desks is also enough for the third group of 22 students. So we need 32 desks in total.
 
+
+---Int_Float.py---
+
+#Sum of digits
+Given a three-digit number. Find the sum of its digits.
+
+# Fractional part
+Given a positive real number, print its fractional part.
+
+# Car route
+A car can cover distance of N kilometers per day. 
+How many days will it take to cover a route of length M kilometers? 
+The program gets two numbers: N and M.

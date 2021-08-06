@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a9a00e-72fb-4cc6-ba53-0091a28256ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Problem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Problem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/Pb_00.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pb_00/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Input_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_problem.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +26,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Int_Float">
     <configuration name="Input_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Problem" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,8 +48,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Int_Float" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Problem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Int_Float.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Int_Float" />
         <item itemvalue="Python.Input_print" />
       </list>
     </recent_temporary>
