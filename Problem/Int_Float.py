@@ -12,10 +12,9 @@ print('# Sum of digits')
 
 print('')
 print('# Fractional part')
-# Given a positive real number, print its fractional part.
-num2=float(input())
-n2_int = math.floor(n)
-print(num2-n2_int)
+# num2=float(input())
+# n2_int = math.floor(n)
+# print(num2-n2_int)
 #sol
 # x = float(input())
 # print(x - int(x))
@@ -23,9 +22,35 @@ print(num2-n2_int)
 
 print('')
 print('# Car route')
-# A car can cover distance of N kilometers per day.
-# How many days will it take to cover a route of length M kilometers?
-# The program gets two numbers: N and M.
-N = float(input())
-M = float(input())
-print(math.ceil(M/N))
+# N = float(input())
+# M = float(input())
+# print(math.ceil(M/N))
+
+print('')
+print('# Digital clock')
+# min_input=int(input())
+# hrs = min_input//60
+# mins = min_input % 60
+# print(str(hrs) + ' ' + str(mins))
+
+print('')
+print('# Total cost')
+# dollars = int(input())
+# cents = int(input())
+# cup_cakes = int(input())
+# temp = (dollars + (cents/100)) * cup_cakes
+# temp *= 100
+# cents = temp % 100
+# dollars = temp // 100
+# print(str(dollars) + ' ' + str(cents))
+
+print('')
+print('# Clock face - 1')
+hours2_in = int(input())
+min2_in = int(input())
+sec2_in = int(input())
+mins = (hours2_in*60) + min2_in + (sec2_in/60)
+degrees = mins / 6 # 6 degree of clock = 1 mins
+print(degrees)
+
+
