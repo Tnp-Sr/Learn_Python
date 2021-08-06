@@ -38,19 +38,27 @@ print('# Total cost')
 # dollars = int(input())
 # cents = int(input())
 # cup_cakes = int(input())
-# temp = (dollars + (cents/100)) * cup_cakes
+# temp = (dollars + (cents/100)) * cup_cakes # cents -> dollars
 # temp *= 100
 # cents = temp % 100
 # dollars = temp // 100
+#sol dollars -> cents
+# cost = n * (100 * a + b)
+# print(cost // 100, cost % 100)
 # print(str(dollars) + ' ' + str(cents))
 
 print('')
 print('# Clock face - 1')
-hours2_in = int(input())
-min2_in = int(input())
-sec2_in = int(input())
-mins = (hours2_in*60) + min2_in + (sec2_in/60)
-degrees = mins / 6 # 6 degree of clock = 1 mins
-print(degrees)
+# hours2_in = int(input())
+# min2_in = int(input())
+# sec2_in = int(input())
+# degrees = (hours2_in * 30) + (min2_in * 0.5) + (sec2_in * (1/120)) # 1 hour = 30 degrees
+#sol
+# print(h * 30 + m * 30 / 60 + s * 30 / 3600)
+# print(degrees)
 
-
+print('')
+print('# Clock face - 2')
+deg_hour = float(input())
+deg_min = 12 * (deg_hour % 30)
+print(deg_min)
