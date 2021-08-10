@@ -3,8 +3,6 @@ class Employee:
 
     print()
     # สร้าง constructor
-    def __init__(self):
-        pass
     def __init__(self,name,salary,gender):
         self.name = name
         self.salary = salary
