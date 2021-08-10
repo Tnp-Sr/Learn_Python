@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01045906-ef69-473c-8762-520a53d2e11d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/.idea/Problem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/Pb_00.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Problem/Pb_00/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Problem/if_then_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Problem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
