@@ -17,7 +17,7 @@ https://snakify.org/en/
 
 ---Int_Float.py---
 
-#Sum of digits
+# Sum of digits
 
 # Fractional part
 
@@ -35,4 +35,8 @@ https://snakify.org/en/
 
 ---Conditions.py---
 
-#Equal numbers
+# Equal numbers
+
+# Rook move
+
+# Chess board - same color

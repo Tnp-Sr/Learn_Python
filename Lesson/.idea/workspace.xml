@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01045906-ef69-473c-8762-520a53d2e11d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic concept/2d_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic concept/2d_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Conditions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Exercise_problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/Exercise_problem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/if_then_else.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab_Data-Structures/Lab1_Python1" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.2d_list">
