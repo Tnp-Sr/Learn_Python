@@ -1,42 +1,16 @@
-https://snakify.org/en/
-.
-.
-.
----Input_print.py---
+Challenge by me (CHM)
 
-# Sum of three numbers
-
-# Square
-
-# Apple sharing
-
-# Two timestamps
-
-# School desks
-
-
----Int_Float.py---
-
-# Sum of digits
-
-# Fractional part
-
-# Car route
-
-# Digital clock
-
-# Total cost
-
-# Clock face - 1
-
-# Clock face - 2
+## 1 ##
+P. have a menu to choose to find either area of triangle or rectangle.
+====Input==== 
+-width
+-height
+-selected num from the menu
+====Output====
+-area of selected geometry
+########
 
 
 
----Conditions.py---
 
-# Equal numbers
 
-# Rook move
-
-# Chess board - same color
