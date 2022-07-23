@@ -31,10 +31,9 @@ h = int(input("Input height : "))
 
 if num > 0 and num <= 2 :
     if num == 1 :
-        area = rec(w,h)
+        print("rectangle area = ", rec(w,h))
     elif num == 2 :
-        area = tri(w,h)
-    print("area = ", area)
+        print("triangle area = ", tri(w,h))
 else :
     print("!! Wrong Input !!")
 
